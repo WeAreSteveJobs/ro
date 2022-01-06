@@ -1,0 +1,2 @@
+# ro
+dababy hates krnl
