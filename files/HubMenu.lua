@@ -17,17 +17,6 @@ local Section = Tab:NewSection("    ")
 
 Section:NewLabel("Hub made by Olaf and Luckyd0e001")
 Section:NewLabel("----")
-Section:NewLabel("this hub has been discontinued
-but I did a remake
-
-this hub is called mod menu
-
-this hub can be modified
-because this is the remake but the original can't even if it's beta or alpha
-
-
-
-remake by LolNonBit")
-
+Section:NewLabel("this hub has been discontinued but I did a remake this hub is called mod menu this hub can be modified because this is the remake but the original can't even if it's beta or alpha remake by LolNonBit")
 
 
