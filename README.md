@@ -1,2 +1,4 @@
-# ro
-dababy hates krnl
+#AAAAAAAAAAAAAAAAAAAAAAAAAA
+
+- dababy hates krnl
+- lol
