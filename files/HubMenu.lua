@@ -5,7 +5,7 @@ local Tab = Window:NewTab("Home - Game")
 local Section = Tab:NewSection("    ")
 
 Section:NewButton("KAT", "Execute KAT Gui", function()
-    print("Clicked")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/WeAreSteveJobs/ro/main/files/Games/KATGUI.lua"))()
 end)
 
 Section:NewButton("Ultimate Lifting Simulator", "Execute ULS Gui", function()
