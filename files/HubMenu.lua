@@ -9,7 +9,11 @@ Section:NewButton("KAT", "Execute KAT Gui", function()
 end)
 
 Section:NewButton("Ultimate Lifting Simulator", "Execute ULS Gui", function()
-    print("Clicked")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/WeAreSteveJobs/ro/main/files/Extra/Services/InBuild"))()
+end)
+
+Section:NewButton("Ninja Legends", "Execute NL Gui", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/WeAreSteveJobs/ro/main/files/Games/Ninja%20Legends.lua"))()
 end)
 
 local Tab = Window:NewTab("Credits")
@@ -18,5 +22,3 @@ local Section = Tab:NewSection("    ")
 Section:NewLabel("Hub made by Olaf and Luckyd0e001")
 Section:NewLabel("----")
 Section:NewLabel("Remake by BlackHoleW")
-
-
