@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("KAT GUI Midnight ", "Midnight")
+local Window = Library.CreateLib("KAT GUI Midnight. ", "Midnight")
 
 local Tab = Window:NewTab("Home")
 local Section = Tab:NewSection("    ")
